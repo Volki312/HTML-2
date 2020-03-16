@@ -1,13 +1,12 @@
 
 ## HTML-2
-### Zadaci
-- Na [FCC](https://www.freecodecamp.org/learn/) rješiti "Basic CSS", "Applied Visual Design" i "Applied Accessibility" vježbe pod "Responsive Web Design Certification"
-- Rješiti [FCC "Build a Survey Form" projekt](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+### Tasks:
+- Solve **Basic CSS**, **Applied Visual Design**, and **Applied Accessibility** lessons within **Responsive Web Design Certification** on [FCC](https://www.freecodecamp.org/learn/)
+- Solve **[Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)** project
 
 <hr>
 
-### Materijali
-#### Dokumentacija:
+### Materials:
 - [Mozilla HTML Attribute Reference](https://www.w3schools.com/html/html_attributes.asp)
 - [W3 HTML Attritubtes](https://www.w3schools.com/html/html_attributes.asp)
 
